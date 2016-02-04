@@ -7,15 +7,16 @@
 1. Android
 2. Web
 3. Desktop
-
 4. *ios queda como un plus
 
 ##Base del juego
 *por implementar
 Propuestas:
- -Endless runner
- -Snake
- -ping pong
+===================
+ +Endless runner, me gusta esta propuesta, algo en 2d simple con varios niveles de dificultad.
+=================== 
+ +Snake
+ +ping pong
 
 
 ##Tecnologia
