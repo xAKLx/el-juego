@@ -12,11 +12,10 @@
 ##Base del juego
 *por implementar
 Propuestas:
-===================
- +Endless runner, me gusta esta propuesta, algo en 2d simple con varios niveles de dificultad.
-=================== 
- +Snake
- +ping pong
+ 1. Endless runner, me gusta esta propuesta, algo en 2d simple con varios niveles de dificultad.
+
+ 2. Snake
+ 3.ping pong
 
 
 ##Tecnologia
