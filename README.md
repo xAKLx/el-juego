@@ -4,10 +4,11 @@
 2. Cesar Darinel Ortiz
 
 ##Trabajamos bajo las plataforma
-*Android
-*Web
-*Desktop
-**ios queda como un plus
+1. Android
+2. Web
+3. Desktop
+
+4. *ios queda como un plus
 
 ##Base del juego
 *por implementar
