@@ -12,6 +12,10 @@
 
 ##Base del juego
 *por implementar
+Propuestas:
+ -Endless runner
+ -Snake
+ -ping pong
 
 
 ##Tecnologia
