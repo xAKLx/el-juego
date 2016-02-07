@@ -17,6 +17,8 @@ Propuestas:
  2. Snake
  3.ping pong
 
+##Propuestas
+1. Crear el motor del juego basado en componentes
 
 ##Tecnologia
 ####libreria Libgdx
